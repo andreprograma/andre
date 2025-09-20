@@ -77,8 +77,6 @@ Currently, I’m a **student of Systems Analysis and Development**, building my 
 
   - HTML, CSS, JavaScript, Python  
   - VS Code, GitHub
-  - HTML, CSS, JavaScript, Python  
-  - VS Code, GitHub
 
 ### 🔗 My links:
 

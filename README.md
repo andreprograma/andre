@@ -1,7 +1,7 @@
-<!-- FUNDO ALEATÓRIO (APENAS DECORATIVO) -->
-<div align="center" style="background-color: #ADF8E6; padding: 30px; color: black;">
-  <h3>🌐 Este fundo é azul claro</h3>
-</div>
+<p align="center">
+  <img 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVud3F2OGt2NTE1MjBtNm90b2F0YzZ6cWpqcDJvOTV0ZXNpc29yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+</p>
 
 <!-- TÍTULO ANIMADO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">

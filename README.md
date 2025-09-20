@@ -47,8 +47,6 @@ Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas** e venho t
 <a href="/"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>  
 <a href="/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2cWlybWxqd2V3ZHI0YTdyMXdkeTVxYmNqbmQ1OHVpbGJrNGxsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 </td>
@@ -86,9 +84,9 @@ Currently, I’m a **student of Systems Analysis and Development**, building my 
 <a href="/"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>  
 <a href="/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2cWlybWxqd2V3ZHI0YTdyMXdkeTVxYmNqbmQ1OHVpbGJrNGxsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E2cWlybWxqd2V3ZHI0YTdyMXdkeTVxYmNqbmQ1OHVpbGJrNGxsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>

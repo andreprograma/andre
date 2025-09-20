@@ -14,7 +14,7 @@
 
 **🙋‍♂️ Olá! Eu sou André Silva**
 
-Sou um entusiasta da tecnologia e apaixonado por desenvolvimento web! 💻  
+Sou um entusiasta da tecnologia e um desenvolvedor web!💻  
 Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas** e venho trilhando meu caminho como **desenvolvedor front-end**.
 
 ### 🛠️ Sobre mim:
@@ -44,7 +44,7 @@ Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas** e venho t
 
 **🙋‍♂️ Hi, I'm André Silva**
 
-I'm a tech enthusiast and passionate about web development! 💻  
+I'm a technology enthusiast and a web developer! 💻  
 Currently, I’m a **student of Systems Analysis and Development**, building my path as a **Front-End Developer**.
 
 ### 🛠️ About me:

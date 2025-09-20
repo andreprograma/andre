@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://i.imgur.com/TOUREw8.gif" alt="Demonstração do Projeto">
 </p>
+<img src="https://i.imgur.com/TOUREw8.gif" alt="Demonstração do Projeto" width="600"/>
+
 
 <!-- TÍTULO ANIMADO COM EFEITO DE DIGITAÇÃO -->
 <p align="center">

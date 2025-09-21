@@ -19,7 +19,8 @@
 
 **🙋‍♂️ Olá! Eu sou André Silva**
 
-Sou um entusiasta da tecnologia e um desenvolvedor web!💻  
+Sou um entusiasta da tecnologia e um desenvolvedor web!💻 
+
 Atualmente sou **estudante de Análise e Desenvolvimento de Sistemas** e venho trilhando meu caminho como **desenvolvedor front-end**.
 
 ### 🛠️ Sobre mim:

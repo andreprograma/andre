@@ -82,7 +82,7 @@ Currently, I’m a **student of Systems Analysis and Development**, building my 
 
 <a href="/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a> ||
 <a href="/"><img src="https://img.shields.io/badge/Projetos-000?style=for-the-badge&logo=code&logoColor=white"/></a> ||
-<a href="/https://www.linkedin.com/in/andre-gustavo-423b71236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> ||
+<a href=https://www.linkedin.com/in/andre-gustavo-423b71236><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> ||
 <a href="/"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>  
 <a href="/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
